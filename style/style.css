@@ -49,7 +49,7 @@ body {
 }
 
 .two {
-  font-size: 1.2rem;
+  font-size: 1.8rem;
   font-weight: lighter;
 }
 
@@ -97,7 +97,9 @@ body {
   border-radius: 3px;
   display: inline-block;
 }
-
+.idea-4 {
+    front-size: 2.5rem;
+}
 .five .idea-5 {
   font-size: 4rem;
 }
@@ -236,25 +238,25 @@ body {
 /* Media Queries */
 @media screen and (max-height: 1000px) {
   .six .hat {
-    left: 49%;
+    left: 39%;
   }
 }
 
 @media screen and (max-height: 800px) {
   .six .hat {
-    left: 46%;
+    left: 36%;
   }
 }
 
 @media screen and (max-height: 700px) {
   .six .hat {
-    left: 44%;
+    left: 34%;
   }
 }
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 42%;
+    left: 32%;
   }
 }
 
@@ -349,3 +351,4 @@ body {
   padding: 1rem 1.6rem;
   cursor: pointer;
 }
+
